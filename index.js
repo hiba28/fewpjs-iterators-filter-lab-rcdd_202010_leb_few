@@ -12,4 +12,3 @@ function matchName(drivers,string) {
   let matchName = drivers.filter(elem => elem.name === string)
   return matchName
 }
-)
